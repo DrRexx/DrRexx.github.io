@@ -1,0 +1,29 @@
+.Caption {
+    font-size: 40px;
+    font-family: Montserrat, sans-serif;
+}
+
+.title {
+    font-size: 80px;
+    font-family: 'Anek Malayalam', sans-serif;
+}
+
+.body {
+    font-size: 30px;
+    font-family: Montserrat, sans-serif;
+}
+
+.alttitle {
+    font-size: 60px;
+    font-family: 'Anek Malayalam', sans-serif;
+}
+
+.link {
+    font-size: 20px;
+    font-family: Montserrat, sans-serif;
+}
+
+.mini{
+    font-size: 15px;
+    font-family: Montserrat, sans-serif;
+}
