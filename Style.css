@@ -1,6 +1,7 @@
 .Caption {
     font-size: 40px;
     font-family: Montserrat, sans-serif;
+    font-family: 'Anek Malayalam', sans-serif;
 }
 
 .title {
@@ -11,6 +12,7 @@
 .body {
     font-size: 30px;
     font-family: Montserrat, sans-serif;
+    font-family: 'Anek Malayalam', sans-serif;
 }
 
 .alttitle {
@@ -21,9 +23,11 @@
 .link {
     font-size: 20px;
     font-family: Montserrat, sans-serif;
+    font-family: 'Anek Malayalam', sans-serif;
 }
 
 .mini{
     font-size: 15px;
     font-family: Montserrat, sans-serif;
+    font-family: 'Anek Malayalam', sans-serif;
 }
